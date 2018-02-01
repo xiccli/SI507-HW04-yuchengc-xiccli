@@ -1,3 +1,4 @@
+from random import choice
 # add a function
 def ask_answer():
     return input("What is your question?")
