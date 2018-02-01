@@ -18,4 +18,3 @@ while a1 != "":
             a1=ask_answer()
         else:
             break
->>>>>>> origin/check_question
